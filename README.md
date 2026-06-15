@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=Pranshul%20Soni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BTech%20CSE%20Student%20%7C%20Developer%20%7C%20Linux%20%7C%20Gaming%20%7C%20Cricket&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0F172A,100:111827&height=170&section=header&text=Pranshul%20Soni&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20%7C%20Game%20Dev%20%7C%20Linux%20%7C%20Cricket&descAlignY=65&descSize=18" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pranshul+Soni;BTech+CSE+Student+at+Nirma+University;Backend+%7C+AI%2FML+%7C+App+Dev+%7C+Game+Dev;Linux+%2B+Gaming+%2B+Cricket+%2B+Code;Always+learning.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+backend+systems...;Building+APIs%2C+tools%2C+and+real-world+projects;Exploring+AI%2FML+and+game+development;Linux+%2B+Gaming+%2B+Cricket+%2B+Code" />
 
 </div>
 
@@ -20,49 +20,36 @@
 
 ---
 
-## Backend Identity
+## API Gateway
 
-<table>
-<tr>
-<td width="50%">
+```http
+GET /api/v1/pranshul/profile
+Status: 200 OK
+Runtime: StudentDeveloper
+Mode: Build. Debug. Ship.
+```
 
-<h3>GET /api/v1/profile</h3>
-
-<pre>
+```json
 {
-  "name": "Pranshul Soni",
-  "role": "BTech CSE Student",
-  "university": "Nirma University",
-  "location": "Ahmedabad, India",
-  "status": "building, learning, debugging"
+  "identity": {
+    "name": "Pranshul Soni",
+    "role": "BTech CSE Student",
+    "university": "Nirma University",
+    "location": "Ahmedabad, India"
+  },
+  "core": {
+    "backend": "APIs, auth systems, databases, tooling",
+    "ai_ml": "PyTorch, computer vision, intelligent systems",
+    "game_dev": "Godot, Unreal Engine, Unity, gameplay systems",
+    "linux": "daily driver mindset, customization, dev workflow"
+  },
+  "personality": {
+    "debug_style": "break it, trace it, fix it",
+    "interests": ["gaming", "cricket", "finance tech", "open source"],
+    "goal": "become a strong software engineer and build useful products"
+  }
 }
-</pre>
-
-</td>
-<td width="50%">
-
-<h3>GET /api/v1/interests</h3>
-
-<pre>
-{
-  "core": [
-    "Backend Development",
-    "AI/ML",
-    "App Development",
-    "Game Development",
-    "Linux"
-  ],
-  "side_quests": [
-    "Gaming",
-    "Cricket",
-    "Finance Tech"
-  ]
-}
-</pre>
-
-</td>
-</tr>
-</table>
+```
 
 ---
 
@@ -74,7 +61,7 @@
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,cs,html,css" />
 
-### Frontend / App Development
+### Frontend / UI Tools
 
 <img src="https://skillicons.dev/icons?i=react,vite,flutter,dart" />
 
@@ -88,7 +75,7 @@
 
 ### Game Development
 
-<img src="https://skillicons.dev/icons?i=godot,unity,unreal,cs" />
+<img src="https://skillicons.dev/icons?i=godot,unreal,unity,cs" />
 
 ### Tools / Platforms
 
@@ -102,7 +89,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>FlowWatch</h3>
 
@@ -119,7 +106,7 @@
 <b>Tech:</b> HTML, JavaScript, Express
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>AuthAPI</h3>
 
@@ -140,7 +127,7 @@
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>SENTINEL</h3>
 
@@ -156,7 +143,7 @@
 <b>Tech:</b> Python, AI/ML, Computer Vision
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
 <h3>tradeo</h3>
 
@@ -208,19 +195,6 @@
 
 ---
 
-## Current Focus
-
-<pre>
-<code>Backend Development       ████████████████████░░
-AI/ML                     ██████████████░░░░░░░░
-App Development           ████████████░░░░░░░░░░
-Game Development          ████████████░░░░░░░░░░
-System Design             ████████████░░░░░░░░░░
-Open Source               ████████████░░░░░░░░░░</code>
-</pre>
-
----
-
 ## Connect With Me
 
 <div align="center">
@@ -243,8 +217,8 @@ Open Source               ████████████░░░░░░
 
 <div align="center">
 
-<h3>Code. Debug. Learn. Repeat.</h3>
+<h3>Code. Debug. Ship. Repeat.</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Backend+systems.;Game+logic.;AI+experiments.;Linux-powered+workflow." />
 
 </div>
