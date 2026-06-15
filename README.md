@@ -66,7 +66,7 @@ Mindset   : Build → Debug → Improve → Ship
 </tr>
 </table>
 
----
+
 
 ## Tech Stack
 
@@ -98,7 +98,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
----
+
 
 ## Featured Projects
 
@@ -176,7 +176,7 @@ Mindset   : Build → Debug → Improve → Ship
 </tr>
 </table>
 
----
+
 
 ## GitHub Stats
 
@@ -188,7 +188,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
----
+
 
 ## Streak Stats
 
@@ -198,7 +198,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
----
+
 
 ## Contribution Graph
 
@@ -208,7 +208,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
----
+
 
 <div align="center">
 
