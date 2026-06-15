@@ -41,14 +41,14 @@
 
 ## About Me
 
-<pre>
-<code>GET /api/v1/players/pranshul-soni
+```http
+GET /api/v1/players/pranshul-soni
 Status: 200 OK
-Content-Type: application/json</code>
-</pre>
+Content-Type: application/json
+```
 
-<pre>
-<code>{
+```json
+{
   "player": {
     "name": "Pranshul Soni",
     "class": "BTech CSE Student",
@@ -72,8 +72,8 @@ Content-Type: application/json</code>
     "optimize",
     "ship"
   ]
-}</code>
-</pre>
+}
+```
 
 
 
@@ -109,43 +109,39 @@ Content-Type: application/json</code>
 
 
 
-## Pinned Workflows
+## Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>WORKFLOW :: FlowWatch</h3>
+### FlowWatch
 
-<p>Embedded backend operations dashboard for Express apps.</p>
+Embedded backend operations dashboard for Express apps.
 
-<ul>
-<li>Durable workflows</li>
-<li>Feature flags</li>
-<li>Tracing</li>
-<li>Error reporting</li>
-<li>Runs inside your app and database</li>
-</ul>
+* Durable workflows
+* Feature flags
+* Tracing
+* Error reporting
+* Runs inside your app and database
 
-<b>Stack:</b> HTML, JavaScript, Express
+**Tech:** HTML, JavaScript, Express
 
 </td>
 <td width="50%" valign="top">
 
-<h3>WORKFLOW :: AuthAPI</h3>
+### AuthAPI
 
-<p>Production-focused Express authentication package.</p>
+Production-focused Express authentication package.
 
-<ul>
-<li>PostgreSQL-backed users</li>
-<li>JWT sessions</li>
-<li>Refresh token rotation</li>
-<li>Password reset</li>
-<li>Email verification</li>
-<li>Google OAuth</li>
-</ul>
+* PostgreSQL-backed users
+* JWT sessions
+* Refresh token rotation
+* Password reset
+* Email verification
+* Google OAuth
 
-<b>Stack:</b> TypeScript, PostgreSQL, Express
+**Tech:** TypeScript, PostgreSQL, Express
 
 </td>
 </tr>
@@ -153,33 +149,29 @@ Content-Type: application/json</code>
 <tr>
 <td width="50%" valign="top">
 
-<h3>WORKFLOW :: SENTINEL</h3>
+### SENTINEL
 
-<p>AI-powered traffic incident management platform.</p>
+AI-powered traffic incident management platform.
 
-<ul>
-<li>LLM co-pilot</li>
-<li>Real-time monitoring</li>
-<li>Computer vision</li>
-<li>Incident management</li>
-</ul>
+* LLM co-pilot
+* Real-time monitoring
+* Computer vision
+* Incident management
 
-<b>Stack:</b> Python, AI/ML, Computer Vision
+**Tech:** Python, AI/ML, Computer Vision
 
 </td>
 <td width="50%" valign="top">
 
-<h3>WORKFLOW :: tradeo</h3>
+### tradeo
 
-<p>Finance and trading-focused Python project.</p>
+Finance and trading-focused Python project.
 
-<ul>
-<li>Trading automation ideas</li>
-<li>Market-focused experiments</li>
-<li>Python-based tooling</li>
-</ul>
+* Trading automation ideas
+* Market-focused experiments
+* Python-based tooling
 
-<b>Stack:</b> Python
+**Tech:** Python
 
 </td>
 </tr>
