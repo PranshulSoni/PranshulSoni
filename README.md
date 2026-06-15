@@ -1,55 +1,74 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,45:0F172A,100:111827&height=170&section=header&text=Pranshul%20Soni&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20AI%2FML%20%7C%20Game%20Dev%20%7C%20Linux%20%7C%20Cricket&descAlignY=65&descSize=18" />
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Pranshul+Soni;Backend+Developer;AI%2FML+Explorer;Game+Dev+Learner" />
+</h1>
 
-<br>
+<p>
+  <b>BTech CSE Student at Nirma University</b>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Initializing+backend+systems...;Building+APIs%2C+tools%2C+and+real-world+projects;Exploring+AI%2FML+and+game+development;Linux+%2B+Gaming+%2B+Cricket+%2B+Code" />
+<p>
+  <code>Backend</code> • <code>AI/ML</code> • <code>Game Dev</code> • <code>Linux</code> • <code>Gaming</code> • <code>Cricket</code>
+</p>
+
+<p>
+  <a href="https://github.com/PranshulSoni">
+    <img src="https://img.shields.io/badge/GitHub-PranshulSoni-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/pranshul-soni-7b0a36268">
+    <img src="https://img.shields.io/badge/LinkedIn-Pranshul%20Soni-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="mailto:pranshulsoni2006marvel@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=PranshulSoni&label=Profile%20Views&color=00f5ff&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/PranshulSoni?label=Followers&style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/stars/PranshulSoni?label=Stars&style=for-the-badge&color=00f5ff" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:0F172A,100:111827&height=8&section=header" />
 
 </div>
 
 ---
 
-<div align="center">
+## About Me
 
-<img src="https://komarev.com/ghpvc/?username=PranshulSoni&label=Profile%20Views&color=00f5ff&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/PranshulSoni?label=Followers&style=for-the-badge&color=8A2BE2" />
-<img src="https://img.shields.io/github/stars/PranshulSoni?label=Stars&style=for-the-badge&color=00f5ff" />
+<table>
+<tr>
+<td width="55%" valign="top">
 
-</div>
+<h3>Who I Am</h3>
 
----
+<p>
+I am <b>Pranshul Soni</b>, a BTech CSE student at <b>Nirma University</b>.  
+I like building backend-heavy systems, experimenting with AI/ML, exploring game development, and improving my Linux-based developer workflow.
+</p>
 
-## API Gateway
+<p>
+My current focus is on writing cleaner APIs, understanding real-world software architecture, and building projects that are actually useful.
+</p>
 
-```http
-GET /api/v1/pranshul/profile
-Status: 200 OK
-Runtime: StudentDeveloper
-Mode: Build. Debug. Ship.
-```
+</td>
+<td width="45%" valign="top">
 
-```json
-{
-  "identity": {
-    "name": "Pranshul Soni",
-    "role": "BTech CSE Student",
-    "university": "Nirma University",
-    "location": "Ahmedabad, India"
-  },
-  "core": {
-    "backend": "APIs, auth systems, databases, tooling",
-    "ai_ml": "PyTorch, computer vision, intelligent systems",
-    "game_dev": "Godot, Unreal Engine, Unity, gameplay systems",
-    "linux": "daily driver mindset, customization, dev workflow"
-  },
-  "personality": {
-    "debug_style": "break it, trace it, fix it",
-    "interests": ["gaming", "cricket", "finance tech", "open source"],
-    "goal": "become a strong software engineer and build useful products"
-  }
-}
-```
+<h3>Developer Snapshot</h3>
+
+<pre>
+Name      : Pranshul Soni
+Role      : BTech CSE Student
+Location  : Ahmedabad, India
+Focus     : Backend + AI/ML + Game Dev
+Mindset   : Build → Debug → Improve → Ship
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -195,30 +214,8 @@ Mode: Build. Debug. Ship.
 
 ---
 
-## Connect With Me
-
 <div align="center">
 
-<a href="https://github.com/PranshulSoni">
-  <img src="https://img.shields.io/badge/GitHub-PranshulSoni-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/pranshul-soni-7b0a36268">
-  <img src="https://img.shields.io/badge/LinkedIn-Pranshul%20Soni-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:pranshulsoni2006marvel@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<h3>Code. Debug. Ship. Repeat.</h3>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=8A2BE2&center=true&vCenter=true&width=700&lines=Backend+systems.;Game+logic.;AI+experiments.;Linux-powered+workflow." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+systems.;AI+experiments.;Game+logic.;Linux-powered+workflow.;Code.+Debug.+Ship.+Repeat." />
 
 </div>
