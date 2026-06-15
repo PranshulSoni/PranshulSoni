@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pranshul+Soni;BTech+CSE+Student+at+Nirma+University;Building+FlowWatch+%7C+AuthAPI+%7C+SENTINEL;Linux+%2B+Gaming+%2B+Cricket+%2B+Code;Always+learning.+Always+shipping." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pranshul+Soni;BTech+CSE+Student+at+Nirma+University;Backend+%7C+AI%2FML+%7C+App+Dev+%7C+Game+Dev;Linux+%2B+Gaming+%2B+Cricket+%2B+Code;Always+learning.+Always+shipping." />
 
 </div>
 
@@ -22,8 +22,8 @@
 
 ## About Me
 
-```cpp
-#include <bits/stdc++.h>
+<pre>
+<code class="language-cpp">#include &lt;bits/stdc++.h&gt;
 using namespace std;
 
 class PranshulSoni {
@@ -32,16 +32,33 @@ public:
     string university = "Nirma University";
     string location = "Ahmedabad, India";
 
-    vector<string> interests = {
+    vector&lt;string&gt; interests = {
         "Software Engineering",
         "Backend Development",
+        "AI/ML",
+        "App Development",
+        "Game Development",
         "Linux",
         "Gaming",
         "Cricket",
         "Finance Tech"
     };
 
-    vector<string> currentlyBuilding = {
+    vector&lt;string&gt; languagesAndFrameworks = {
+        "C++",
+        "C",
+        "Java",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "C#",
+        "Flutter",
+        "Vite",
+        "PyTorch",
+        "GDScript"
+    };
+
+    vector&lt;string&gt; currentlyBuilding = {
         "FlowWatch",
         "AuthAPI",
         "SENTINEL",
@@ -49,8 +66,8 @@ public:
     };
 
     string goal = "Become a strong software engineer and build useful products.";
-};
-```
+};</code>
+</pre>
 
 ---
 
@@ -60,11 +77,23 @@ public:
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,cs,html,css" />
+
+### Frontend / App Development
+
+<img src="https://skillicons.dev/icons?i=react,vite,flutter,dart" />
 
 ### Backend / Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,firebase" />
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,python" />
+
+### Game Development
+
+<img src="https://skillicons.dev/icons?i=godot,unity,cs" />
 
 ### Tools / Platforms
 
@@ -174,11 +203,14 @@ public:
 
 ---
 
-## GitHub Trophies
+## Highlights
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PranshulSoni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://img.shields.io/badge/Focus-Backend%20Development-00F5FF?style=for-the-badge&logo=nodedotjs" />
+<img src="https://img.shields.io/badge/AI%2FML-PyTorch-8A2BE2?style=for-the-badge&logo=pytorch" />
+<img src="https://img.shields.io/badge/App%20Dev-Flutter-00F5FF?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Game%20Dev-Godot-8A2BE2?style=for-the-badge&logo=godotengine" />
 
 </div>
 
@@ -196,13 +228,14 @@ public:
 
 ## Current Focus
 
-```txt
-Backend Development       ████████████████████░░
+<pre>
+<code>Backend Development       ████████████████████░░
+AI/ML                     ██████████████░░░░░░░░
+App Development           ████████████░░░░░░░░░░
+Game Development          ███████████░░░░░░░░░░░
 System Design             ████████████░░░░░░░░░░
-AI/ML                     ██████████░░░░░░░░░░░░
-Open Source               ████████████░░░░░░░░░░
-Competitive Programming   ██████████████░░░░░░░░
-```
+Open Source               ████████████░░░░░░░░░░</code>
+</pre>
 
 ---
 
