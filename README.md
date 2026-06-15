@@ -41,14 +41,14 @@
 
 ## About Me
 
-```http
-GET /api/v1/players/pranshul-soni
+<pre>
+<code>GET /api/v1/players/pranshul-soni
 Status: 200 OK
-Content-Type: application/json
-```
+Content-Type: application/json</code>
+</pre>
 
-```json
-{
+<pre>
+<code>{
   "player": {
     "name": "Pranshul Soni",
     "class": "BTech CSE Student",
@@ -72,8 +72,8 @@ Content-Type: application/json
     "optimize",
     "ship"
   ]
-}
-```
+}</code>
+</pre>
 
 
 
@@ -109,39 +109,43 @@ Content-Type: application/json
 
 
 
-## Featured Builds
+## Pinned Workflows
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### FlowWatch
+<h3>WORKFLOW :: FlowWatch</h3>
 
-Embedded backend operations dashboard for Express apps.
+<p>Embedded backend operations dashboard for Express apps.</p>
 
-* Durable workflows
-* Feature flags
-* Tracing
-* Error reporting
-* Runs inside your app and database
+<ul>
+<li>Durable workflows</li>
+<li>Feature flags</li>
+<li>Tracing</li>
+<li>Error reporting</li>
+<li>Runs inside your app and database</li>
+</ul>
 
-**Tech:** HTML, JavaScript, Express
+<b>Stack:</b> HTML, JavaScript, Express
 
 </td>
 <td width="50%" valign="top">
 
-### AuthAPI
+<h3>WORKFLOW :: AuthAPI</h3>
 
-Production-focused Express authentication package.
+<p>Production-focused Express authentication package.</p>
 
-* PostgreSQL-backed users
-* JWT sessions
-* Refresh token rotation
-* Password reset
-* Email verification
-* Google OAuth
+<ul>
+<li>PostgreSQL-backed users</li>
+<li>JWT sessions</li>
+<li>Refresh token rotation</li>
+<li>Password reset</li>
+<li>Email verification</li>
+<li>Google OAuth</li>
+</ul>
 
-**Tech:** TypeScript, PostgreSQL, Express
+<b>Stack:</b> TypeScript, PostgreSQL, Express
 
 </td>
 </tr>
@@ -149,29 +153,33 @@ Production-focused Express authentication package.
 <tr>
 <td width="50%" valign="top">
 
-### SENTINEL
+<h3>WORKFLOW :: SENTINEL</h3>
 
-AI-powered traffic incident management platform.
+<p>AI-powered traffic incident management platform.</p>
 
-* LLM co-pilot
-* Real-time monitoring
-* Computer vision
-* Incident management
+<ul>
+<li>LLM co-pilot</li>
+<li>Real-time monitoring</li>
+<li>Computer vision</li>
+<li>Incident management</li>
+</ul>
 
-**Tech:** Python, AI/ML, Computer Vision
+<b>Stack:</b> Python, AI/ML, Computer Vision
 
 </td>
 <td width="50%" valign="top">
 
-### tradeo
+<h3>WORKFLOW :: tradeo</h3>
 
-Finance and trading-focused Python project.
+<p>Finance and trading-focused Python project.</p>
 
-* Trading automation ideas
-* Market-focused experiments
-* Python-based tooling
+<ul>
+<li>Trading automation ideas</li>
+<li>Market-focused experiments</li>
+<li>Python-based tooling</li>
+</ul>
 
-**Tech:** Python
+<b>Stack:</b> Python
 
 </td>
 </tr>
