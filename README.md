@@ -1,72 +1,83 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=700&color=00F5FF&center=true&vCenter=true&width=700&lines=Pranshul+Soni;Backend+Developer;AI%2FML+Explorer;Game+Dev+Learner" />
-</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=44&duration=2600&pause=700&color=22D3EE&center=true&vCenter=true&width=950&lines=%3E+PRANSHUL+SONI;BACKEND+DEV+%2F%2F+AI%2FML+%2F%2F+GAME+DEV" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=C084FC&center=true&vCenter=true&width=900&lines=Loading+developer+profile...;Spawning+backend+systems...;Compiling+game+logic...;Training+AI+experiments..." />
+
+<h3>BTech CSE Student at Nirma University</h3>
 
 <p>
-  <b>BTech CSE Student at Nirma University</b>
-</p>
-
-<p>
-  <code>Backend</code> • <code>AI/ML</code> • <code>Game Dev</code> • <code>Linux</code> • <code>Gaming</code> • <code>Cricket</code>
+  <img src="https://img.shields.io/badge/Backend-22D3EE?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/AI%2FML-C084FC?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Game%20Dev-F472B6?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Linux-38BDF8?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Gaming-A78BFA?style=for-the-badge&labelColor=0F172A" />
+  <img src="https://img.shields.io/badge/Cricket-2DD4BF?style=for-the-badge&labelColor=0F172A" />
 </p>
 
 <p>
   <a href="https://github.com/PranshulSoni">
-    <img src="https://img.shields.io/badge/GitHub-PranshulSoni-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-PranshulSoni-111827?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=020617" />
   </a>
   <a href="https://www.linkedin.com/in/pranshul-soni-7b0a36268">
-    <img src="https://img.shields.io/badge/LinkedIn-Pranshul%20Soni-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pranshul%20Soni-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=020617" />
   </a>
   <a href="mailto:pranshulsoni2006marvel@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=020617" />
   </a>
 </p>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=PranshulSoni&label=Profile%20Views&color=00f5ff&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/PranshulSoni?label=Followers&style=for-the-badge&color=8A2BE2" />
-  <img src="https://img.shields.io/github/stars/PranshulSoni?label=Stars&style=for-the-badge&color=00f5ff" />
+  <img src="https://komarev.com/ghpvc/?username=PranshulSoni&label=Profile%20Views&color=22D3EE&style=for-the-badge&labelColor=111827" />
+  <img src="https://img.shields.io/github/followers/PranshulSoni?label=Followers&style=for-the-badge&color=C084FC&labelColor=111827" />
+  <img src="https://img.shields.io/github/stars/PranshulSoni?label=Stars&style=for-the-badge&color=F472B6&labelColor=111827" />
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:C084FC,100:F472B6&height=4&section=header" />
+
 </div>
 
+---
 
 ## About Me
 
-<table>
-<tr>
-<td width="55%" valign="top">
+```http
+GET /api/v1/players/pranshul-soni
+Status: 200 OK
+Content-Type: application/json
+```
 
-<h3>Who I Am</h3>
+```json
+{
+  "player": {
+    "name": "Pranshul Soni",
+    "class": "BTech CSE Student",
+    "university": "Nirma University",
+    "location": "Ahmedabad, India",
+    "status": "online"
+  },
+  "main_quests": {
+    "backend": "building APIs, auth systems, databases and useful tools",
+    "ai_ml": "experimenting with PyTorch, computer vision and intelligent systems",
+    "game_dev": "exploring Godot, Unreal Engine, Unity and gameplay logic",
+    "linux": "customizing and improving my developer workflow"
+  },
+  "side_quests": [
+    "gaming",
+    "cricket",
+    "finance tech",
+    "open source"
+  ],
+  "playstyle": [
+    "build",
+    "debug",
+    "optimize",
+    "ship"
+  ]
+}
+```
 
-<p>
-I am <b>Pranshul Soni</b>, a BTech CSE student at <b>Nirma University</b>.  
-I like building backend-heavy systems, experimenting with AI/ML, exploring game development, and improving my Linux-based developer workflow.
-</p>
-
-<p>
-My current focus is on writing cleaner APIs, understanding real-world software architecture, and building projects that are actually useful.
-</p>
-
-</td>
-<td width="45%" valign="top">
-
-<h3>Developer Snapshot</h3>
-
-<pre>
-Name      : Pranshul Soni
-Role      : BTech CSE Student
-Location  : Ahmedabad, India
-Focus     : Backend + AI/ML + Game Dev
-Mindset   : Build → Debug → Improve → Ship
-</pre>
-
-</td>
-</tr>
-</table>
-
-
+---
 
 ## Tech Stack
 
@@ -76,7 +87,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js,ts,cs,html,css" />
 
-### Frontend / UI Tools
+### Frameworks / UI Tools
 
 <img src="https://skillicons.dev/icons?i=react,vite,flutter,dart" />
 
@@ -98,45 +109,41 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
+---
 
-
-## Featured Projects
+## Featured Builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>FlowWatch</h3>
+### FlowWatch
 
-<p>Embedded backend operations dashboard for Express apps.</p>
+Embedded backend operations dashboard for Express apps.
 
-<ul>
-<li>Durable workflows</li>
-<li>Feature flags</li>
-<li>Tracing</li>
-<li>Error reporting</li>
-<li>Runs inside your app and database</li>
-</ul>
+* Durable workflows
+* Feature flags
+* Tracing
+* Error reporting
+* Runs inside your app and database
 
-<b>Tech:</b> HTML, JavaScript, Express
+**Tech:** HTML, JavaScript, Express
 
 </td>
 <td width="50%" valign="top">
 
-<h3>AuthAPI</h3>
+### AuthAPI
 
-<p>Production-focused Express authentication package.</p>
+Production-focused Express authentication package.
 
-<ul>
-<li>PostgreSQL-backed users</li>
-<li>JWT sessions</li>
-<li>Refresh token rotation</li>
-<li>Password reset</li>
-<li>Email verification</li>
-<li>Google OAuth</li>
-</ul>
+* PostgreSQL-backed users
+* JWT sessions
+* Refresh token rotation
+* Password reset
+* Email verification
+* Google OAuth
 
-<b>Tech:</b> TypeScript, PostgreSQL, Express
+**Tech:** TypeScript, PostgreSQL, Express
 
 </td>
 </tr>
@@ -144,39 +151,35 @@ Mindset   : Build → Debug → Improve → Ship
 <tr>
 <td width="50%" valign="top">
 
-<h3>SENTINEL</h3>
+### SENTINEL
 
-<p>AI-powered traffic incident management platform.</p>
+AI-powered traffic incident management platform.
 
-<ul>
-<li>LLM co-pilot</li>
-<li>Real-time monitoring</li>
-<li>Computer vision</li>
-<li>Incident management</li>
-</ul>
+* LLM co-pilot
+* Real-time monitoring
+* Computer vision
+* Incident management
 
-<b>Tech:</b> Python, AI/ML, Computer Vision
+**Tech:** Python, AI/ML, Computer Vision
 
 </td>
 <td width="50%" valign="top">
 
-<h3>tradeo</h3>
+### tradeo
 
-<p>Finance and trading-focused Python project.</p>
+Finance and trading-focused Python project.
 
-<ul>
-<li>Trading automation ideas</li>
-<li>Market-focused experiments</li>
-<li>Python-based tooling</li>
-</ul>
+* Trading automation ideas
+* Market-focused experiments
+* Python-based tooling
 
-<b>Tech:</b> Python
+**Tech:** Python
 
 </td>
 </tr>
 </table>
 
-
+---
 
 ## GitHub Stats
 
@@ -188,7 +191,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
-
+---
 
 ## Streak Stats
 
@@ -198,7 +201,7 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
-
+---
 
 ## Contribution Graph
 
@@ -208,10 +211,14 @@ Mindset   : Build → Debug → Improve → Ship
 
 </div>
 
-
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00F5FF&center=true&vCenter=true&width=750&lines=Backend+systems.;AI+experiments.;Game+logic.;Linux-powered+workflow.;Code.+Debug.+Ship.+Repeat." />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22D3EE,50:C084FC,100:F472B6&height=4&section=header" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+systems.;AI+experiments.;Game+logic.;Linux-powered+workflow.;Code.+Debug.+Ship.+Repeat." />
 
 </div>
