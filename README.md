@@ -20,54 +20,49 @@
 
 ---
 
-## About Me
+## Backend Identity
+
+<table>
+<tr>
+<td width="50%">
+
+<h3>GET /api/v1/profile</h3>
 
 <pre>
-<code class="language-cpp">#include &lt;bits/stdc++.h&gt;
-using namespace std;
-
-class PranshulSoni {
-public:
-    string role = "BTech CSE Student";
-    string university = "Nirma University";
-    string location = "Ahmedabad, India";
-
-    vector&lt;string&gt; interests = {
-        "Software Engineering",
-        "Backend Development",
-        "AI/ML",
-        "App Development",
-        "Game Development",
-        "Linux",
-        "Gaming",
-        "Cricket",
-        "Finance Tech"
-    };
-
-    vector&lt;string&gt; languagesAndFrameworks = {
-        "C++",
-        "C",
-        "Java",
-        "Python",
-        "JavaScript",
-        "TypeScript",
-        "C#",
-        "Flutter",
-        "Vite",
-        "PyTorch",
-        "GDScript"
-    };
-
-    vector&lt;string&gt; currentlyBuilding = {
-        "FlowWatch",
-        "AuthAPI",
-        "SENTINEL",
-        "tradeo"
-    };
-
-    string goal = "Become a strong software engineer and build useful products.";
-};</code>
+{
+  "name": "Pranshul Soni",
+  "role": "BTech CSE Student",
+  "university": "Nirma University",
+  "location": "Ahmedabad, India",
+  "status": "building, learning, debugging"
+}
 </pre>
+
+</td>
+<td width="50%">
+
+<h3>GET /api/v1/interests</h3>
+
+<pre>
+{
+  "core": [
+    "Backend Development",
+    "AI/ML",
+    "App Development",
+    "Game Development",
+    "Linux"
+  ],
+  "side_quests": [
+    "Gaming",
+    "Cricket",
+    "Finance Tech"
+  ]
+}
+</pre>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -93,7 +88,7 @@ public:
 
 ### Game Development
 
-<img src="https://skillicons.dev/icons?i=godot,unity,cs" />
+<img src="https://skillicons.dev/icons?i=godot,unity,unreal,cs" />
 
 ### Tools / Platforms
 
@@ -203,19 +198,6 @@ public:
 
 ---
 
-## Highlights
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Focus-Backend%20Development-00F5FF?style=for-the-badge&logo=nodedotjs" />
-<img src="https://img.shields.io/badge/AI%2FML-PyTorch-8A2BE2?style=for-the-badge&logo=pytorch" />
-<img src="https://img.shields.io/badge/App%20Dev-Flutter-00F5FF?style=for-the-badge&logo=flutter" />
-<img src="https://img.shields.io/badge/Game%20Dev-Godot-8A2BE2?style=for-the-badge&logo=godotengine" />
-
-</div>
-
----
-
 ## Contribution Graph
 
 <div align="center">
@@ -232,7 +214,7 @@ public:
 <code>Backend Development       ████████████████████░░
 AI/ML                     ██████████████░░░░░░░░
 App Development           ████████████░░░░░░░░░░
-Game Development          ███████████░░░░░░░░░░░
+Game Development          ████████████░░░░░░░░░░
 System Design             ████████████░░░░░░░░░░
 Open Source               ████████████░░░░░░░░░░</code>
 </pre>
