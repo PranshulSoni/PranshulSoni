@@ -29,9 +29,6 @@
   <img src="https://img.shields.io/github/followers/PranshulSoni?label=Followers&style=for-the-badge&color=8A2BE2" />
   <img src="https://img.shields.io/github/stars/PranshulSoni?label=Stars&style=for-the-badge&color=00f5ff" />
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:020617,50:0F172A,100:111827&height=8&section=header" />
-
 </div>
 
 ---
