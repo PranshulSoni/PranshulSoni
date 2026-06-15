@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:8A2BE2&height=220&section=header&text=Pranshul%20Soni&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=BTech%20CSE%20Student%20%7C%20Developer%20%7C%20Linux%20%7C%20Gaming%20%7C%20Cricket&descAlignY=55&descSize=18" />
 
+<br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey%2C+I'm+Pranshul+Soni;BTech+CSE+Student+at+Nirma+University;Building+FlowWatch+%7C+AuthAPI+%7C+SENTINEL;Linux+%2B+Gaming+%2B+Cricket+%2B+Code;Always+learning.+Always+shipping." />
 
 </div>
@@ -78,33 +80,37 @@ public:
 <tr>
 <td width="50%">
 
-### FlowWatch
+<h3>FlowWatch</h3>
 
-Embedded backend operations dashboard for Express.
+<p>Embedded backend operations dashboard for Express apps.</p>
 
-* Durable workflows
-* Feature flags
-* Tracing
-* Error reporting
-* Fully inside your app and database
+<ul>
+<li>Durable workflows</li>
+<li>Feature flags</li>
+<li>Tracing</li>
+<li>Error reporting</li>
+<li>Runs inside your app and database</li>
+</ul>
 
-**Tech:** HTML, JavaScript, Express
+<b>Tech:</b> HTML, JavaScript, Express
 
 </td>
 <td width="50%">
 
-### AuthAPI
+<h3>AuthAPI</h3>
 
-Production-focused Express authentication package.
+<p>Production-focused Express authentication package.</p>
 
-* PostgreSQL-backed users
-* JWT sessions
-* Refresh token rotation
-* Password reset
-* Email verification
-* Google OAuth
+<ul>
+<li>PostgreSQL-backed users</li>
+<li>JWT sessions</li>
+<li>Refresh token rotation</li>
+<li>Password reset</li>
+<li>Email verification</li>
+<li>Google OAuth</li>
+</ul>
 
-**Tech:** TypeScript, PostgreSQL, Express
+<b>Tech:</b> TypeScript, PostgreSQL, Express
 
 </td>
 </tr>
@@ -112,29 +118,33 @@ Production-focused Express authentication package.
 <tr>
 <td width="50%">
 
-### SENTINEL
+<h3>SENTINEL</h3>
 
-AI-powered traffic incident management platform.
+<p>AI-powered traffic incident management platform.</p>
 
-* LLM co-pilot
-* Real-time monitoring
-* Computer vision
-* Incident management
+<ul>
+<li>LLM co-pilot</li>
+<li>Real-time monitoring</li>
+<li>Computer vision</li>
+<li>Incident management</li>
+</ul>
 
-**Tech:** Python, AI/ML, Computer Vision
+<b>Tech:</b> Python, AI/ML, Computer Vision
 
 </td>
 <td width="50%">
 
-### tradeo
+<h3>tradeo</h3>
 
-Finance/trading-focused Python project.
+<p>Finance and trading-focused Python project.</p>
 
-* Trading automation ideas
-* Market-focused experiments
-* Python-based tooling
+<ul>
+<li>Trading automation ideas</li>
+<li>Market-focused experiments</li>
+<li>Python-based tooling</li>
+</ul>
 
-**Tech:** Python
+<b>Tech:</b> Python
 
 </td>
 </tr>
@@ -146,9 +156,9 @@ Finance/trading-focused Python project.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=PranshulSoni&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=PranshulSoni&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulSoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranshulSoni&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -158,7 +168,7 @@ Finance/trading-focused Python project.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PranshulSoni&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=PranshulSoni&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -168,7 +178,7 @@ Finance/trading-focused Python project.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=PranshulSoni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=PranshulSoni&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 
 </div>
 
@@ -179,16 +189,6 @@ Finance/trading-focused Python project.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PranshulSoni&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/PranshulSoni/PranshulSoni/output/github-snake-dark.svg" />
 
 </div>
 
@@ -228,7 +228,7 @@ Competitive Programming   ██████████████░░░░
 
 <div align="center">
 
-### “Code. Debug. Learn. Repeat.”
+<h3>Code. Debug. Learn. Repeat.</h3>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00F5FF&height=120&section=footer" />
 
