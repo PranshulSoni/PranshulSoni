@@ -37,7 +37,7 @@
 
 </div>
 
----
+
 
 ## About Me
 
@@ -59,13 +59,11 @@ Content-Type: application/json
   "main_quests": {
     "backend": "building APIs, auth systems, databases and useful tools",
     "ai_ml": "experimenting with PyTorch, computer vision and intelligent systems",
-    "game_dev": "exploring Godot, Unreal Engine, Unity and gameplay logic",
-    "linux": "customizing and improving my developer workflow"
+    "game_dev": "exploring Godot, Unreal Engine, Unity and gameplay logic"
   },
   "side_quests": [
     "gaming",
     "cricket",
-    "finance tech",
     "open source"
   ],
   "playstyle": [
@@ -77,7 +75,7 @@ Content-Type: application/json
 }
 ```
 
----
+
 
 ## Tech Stack
 
@@ -109,7 +107,7 @@ Content-Type: application/json
 
 </div>
 
----
+
 
 ## Featured Builds
 
@@ -179,7 +177,7 @@ Finance and trading-focused Python project.
 </tr>
 </table>
 
----
+
 
 ## GitHub Stats
 
@@ -191,7 +189,7 @@ Finance and trading-focused Python project.
 
 </div>
 
----
+
 
 ## Streak Stats
 
@@ -201,7 +199,7 @@ Finance and trading-focused Python project.
 
 </div>
 
----
+
 
 ## Contribution Graph
 
@@ -211,7 +209,7 @@ Finance and trading-focused Python project.
 
 </div>
 
----
+
 
 <div align="center">
 
@@ -219,6 +217,6 @@ Finance and trading-focused Python project.
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+systems.;AI+experiments.;Game+logic.;Linux-powered+workflow.;Code.+Debug.+Ship.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=850&lines=Backend+systems.;AI+experiments.;Game+logic.;Clean+APIs.;Code.+Debug.+Ship.+Repeat." />
 
 </div>
